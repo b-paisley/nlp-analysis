@@ -1,7 +1,7 @@
 # nlp-analysis
 
 There are four jupyter notebooks.  
-3 are for the devlopment of the three models that were being implemented and analysed and the other is for the demonstration that took place in March.  
+3 are for the development of the three models that were being implemented and analysed and the other is for the demonstration that took place in March.  
   
 The repository includes 2 data files.  
 The Chancery documents were an ongoing process and may contain errors.  
